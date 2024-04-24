@@ -1,0 +1,15 @@
+E:\GraphsLab\GraphsLab\bin\Debug\net6.0\GraphsLab.exe
+E:\GraphsLab\GraphsLab\bin\Debug\net6.0\GraphsLab.deps.json
+E:\GraphsLab\GraphsLab\bin\Debug\net6.0\GraphsLab.runtimeconfig.json
+E:\GraphsLab\GraphsLab\bin\Debug\net6.0\GraphsLab.dll
+E:\GraphsLab\GraphsLab\bin\Debug\net6.0\GraphsLab.pdb
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\GraphsLab.csproj.AssemblyReference.cache
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\GraphsLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\GraphsLab.AssemblyInfoInputs.cache
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\GraphsLab.AssemblyInfo.cs
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\GraphsLab.csproj.CoreCompileInputs.cache
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\GraphsLab.dll
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\refint\GraphsLab.dll
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\GraphsLab.pdb
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\GraphsLab.genruntimeconfig.cache
+E:\GraphsLab\GraphsLab\obj\Debug\net6.0\ref\GraphsLab.dll
